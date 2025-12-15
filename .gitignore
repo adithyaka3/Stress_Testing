@@ -26,6 +26,10 @@
 *.a
 *.lib
 
+# coded files
+test.cpp
+correct.cpp
+generator.cpp
 # Executables
 *.exe
 *.out
